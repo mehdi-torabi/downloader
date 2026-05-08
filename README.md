@@ -33,4 +33,4 @@ visit: https://example.com/page
 
 
 تموم! 🚀
-visit: [https://example.com/page](https://dl.friendlyelec.com/mini6410)
+visit: https://dl.friendlyelec.com/mini6410

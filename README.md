@@ -17,7 +17,7 @@
 
 ### دانلود فایل:
 ```
-download: https://example.com/file.zip
+download: https://roboeq.ir/files/id/50/name/Mini6410-For-Dummies_040111.pdf/file.zip
 ```
 
 ### بازدید و ذخیره صفحه وب:
@@ -33,4 +33,4 @@ visit: https://example.com/page
 
 
 تموم! 🚀
-visit: https://dl.friendlyelec.com/mini6410
+visit: https://dl.friendlyelec.com/mini6410/page
